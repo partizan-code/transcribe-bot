@@ -8,4 +8,10 @@ dependencies = [
     "aiogram>=3.31.0",
     "assemblyai>=1.8.2",
     "loguru>=0.7.3",
+    "python-dotenv>=1.2.4",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.4",
 ]
