@@ -1,7 +1,7 @@
 [project]
-name = "20261109-transcribe-bot"
+name = "transcribe-bot"
 version = "0.1.0"
-description = "Add your description here"
+description = "Asynchronous Telegram bot for audio and video transcription"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
